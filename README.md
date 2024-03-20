@@ -2,8 +2,14 @@
    ```bash
    git clone https://github.com/dv2202/goindiastocksAssignment.git
 
-2. cd goindiastocksAssignment
+2. Navigate to the project directory:
+   ```bash
+   cd goindiastocksAssignment
 
-3. npm install
+3. Install Dependencies 
+   ```bash
+   npm install
 
-4. npm run dev 
+4. To run the development server and view the project locally, use the following command:
+   ```bash
+   npm run dev 
